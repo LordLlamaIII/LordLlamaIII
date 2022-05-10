@@ -1,5 +1,5 @@
 <h1 align="center">Ojarimouse! I'm Chris Foster</h1>
-<h3 align="center">その目、だれの目？</h3>
+<!--<h3 align="center">その目、だれの目？</h3>-->
 
 - 🔭 I’m currently working on [my website](https://github.com/LordLlamaIII/c-foster.com)
 - 🌱 I’m currently learning MySQL
